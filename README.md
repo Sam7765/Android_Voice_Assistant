@@ -81,8 +81,6 @@ pip install pyttsx3
 - pip                23.2.1
 - PyAudio            0.2.14
 - PyAutoGUI          0.9.54
-- pydantic           2.5.0
-- pydantic_core      2.14.1
 - PyGetWindow        0.0.9
 - PyMsgBox           1.0.9
 - pyperclip          1.8.2
