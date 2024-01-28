@@ -56,3 +56,8 @@ pip install pyttsx3
 - from PyQt5.uic import loadUiType
 - from PyQt5 import QtCore, QtGui, QtWidgets
 - from AndroiBot import Ui_Androidio
+
+# OutPut
+![Screenshot (132)](https://github.com/Sam7765/Android_voice_Assistant/assets/157595182/7072d8d9-1853-40e9-b9ea-ecd43bca0353)
+
+
