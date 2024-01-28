@@ -99,9 +99,6 @@ pip install pyttsx3
 - pywin32            306
 - requests           2.31.0
 - setuptools         68.2.2
-- six                1.16.0
-- sniffio            1.3.0
-- soupsieve          2.5
 - SpeechRecognition  3.10.0
 - typing_extensions  4.8.0
 - whisper            1.1.10
