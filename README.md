@@ -1,23 +1,23 @@
 # Android_voice_Assistant
 
-It can do a lot of cool things, some of them being:
 
-Greet user
-Tell current time and date
-Launch applications/softwares
-Open any website
-You can use Webcam 
-Tells about any person (via Wikipedia)
-You Can search anything on Google
-You Can play any song on YouTube
-Plays music
-Answer any generic question (via Wolframalpha)
-Take important note in notepad
-Tells your IP address
-It Has a cool Graphical User Interface
-
-
-
-
-
-
+import pyttsx3 
+import datetime
+import speech_recognition as sr
+import os
+import cv2
+import random
+import requests 
+import wikipedia
+import webbrowser
+import pywhatkit as kit
+import sys
+from PyQt5 import QtWidgets,QtCore, QtGui
+from PyQt5.QtCore import QObject, QTimer, QTime, QDate, Qt
+from PyQt5.QtGui import QMovie
+from PyQt5.QtCore import *
+from PyQt5.QtGui import *
+from PyQt5.QtWidgets import *
+from PyQt5.uic import loadUiType
+from PyQt5 import QtCore, QtGui, QtWidgets
+from AndroiBot import Ui_Androidio
