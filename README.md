@@ -38,6 +38,11 @@ pip install pyttsx3
 
 
 
+https://github.com/user-attachments/assets/0f6e468a-0652-46cd-a62f-be52380b5d57
+
+
+
+
 
   # Implementation
 
